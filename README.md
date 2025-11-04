@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there, I'm Huyen (HWIN)!
 
-<!--
-**htthuyen/htthuyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Graduate Student at The University of Texas at Dallas (M.S. in Business Analytics & AI, 2026)**  
+💻 **B.S. in Computer Science (2024)**  
+💡 Passionate about **Data Engineering**, **Analytics**, and **Software Development** — turning raw data into smart insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- 🧠 **Emotion Detection in Social Media (NLP Project)**  
+  Building a machine learning model to classify the **emotion expressed in tweets**. 
+
+---
+
+## 🧰 Tech Stack
+
+- **Languages:** Python · SQL · Java · R · JavaScript 
+- **Data Tools:** Hadoop · Hive · Spark · Docker · Pandas · Power BI · Tableau
+- **Databases:** MySQL · PostgreSQL · SQLite · HiveQL  
+- **Web Development:** React · HTML/CSS ·  
+- **Other Skills:** Git · Linux Command Line · Node.js · API Integration 
+
+---
+
+## 📚 What I'm Learning
+
+- 🔧 Building **end-to-end data pipelines** with Hadoop + Spark  
+- ☁️ Exploring **AWS (S3, Glue, Lambda)** for data engineering  
+- 🧮 Advanced **SQL optimization** and query performance tuning  
+
+---
+
+<!-- ## 📫 Let's Connect
+
+--!>

@@ -1,8 +1,9 @@
 # 👋 Hi there, I'm Huyen (HWIN)!
 
 🎓 **Graduate Student at The University of Texas at Dallas (M.S. in Business Analytics & AI, 2026)**  
+
 💻 **B.S. in Computer Science (2024)**  
-💡 Passionate about **Data Engineering**, **Analytics**, and **Software Development** — turning raw data into smart insights.
+
 ---
 
 
